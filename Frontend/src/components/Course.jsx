@@ -11,7 +11,7 @@ function Course() {
           <h1 className="text-2xl md:text-4xl">
             We're delighted to have you{" "}
             <span className="text-pink-500">Here! :)</span>
-          </h1>
+          </h1>   
           <p className="mt-12">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
             vero, nostrum quas itaque sit tenetur dicta ducimus adipisci
